@@ -1,3 +1,4 @@
+
 {
   "expo": {
     "name": "domain-auth-app",
@@ -20,7 +21,7 @@
       "predictiveBackGestureEnabled": false
     },
     "web": {
-      "output": "server",
+      "output": "static",
       "favicon": "./assets/images/favicon.png"
     },
     "plugins": [
